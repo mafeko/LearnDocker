@@ -1,0 +1,1 @@
+Following tutorial on https://docs.docker.com/get-started/part2/#tag-the-image
